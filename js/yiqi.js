@@ -11,10 +11,10 @@ window.onload=function(){
 		   		alert("是不是不太符合你的胃口？咱记得下次换个餐厅");
 		   		
 	   }else if(Dianji==3){
-		   		alert("你要不再回去点个甜品尝尝？");
+		   		alert("要不我们下次点个外卖尝尝？");
 		   		
 	   }else if(Dianji==4){
-		   		alert("能告诉我你喜欢吃什么吗？一定要让你满意!");
+		   		alert("快微信告诉我你喜欢吃什么？一定要让你满意!");
 		   		
 	  }else if(Dianji==5){
 		   		alert("今天不行，改天再来！");
